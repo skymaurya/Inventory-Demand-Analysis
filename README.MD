@@ -62,7 +62,7 @@ The objective of this project is to analyze retail sales data to identify demand
 - Live Dashboard: (https://public.tableau.com/app/profile/akash.maurya3794/viz/RetailInventoryDemandAnalysisDashboardExcelSQLTableauProject/Dashboard?publish=yes)
 
 
-- ![Dashboard Preview](dashboard/dashboard.png)
+- ![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
