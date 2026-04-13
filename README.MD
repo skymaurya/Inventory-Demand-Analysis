@@ -1,10 +1,42 @@
+
+
 # 🧾 Inventory & Demand Analysis using Excel, Sql and Tableau
+
+- 🚀 End-to-end analysis of retail sales data to identify demand trends, supply chain inefficiencies, and profitability risks.
+
+---
+
+- 🔗 Live Dashboard: [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/akash.maurya3794/viz/RetailInventoryDemandAnalysisDashboardExcelSQLTableauProject/Dashboard?publish=yes)
 
 ---
 
 ## 🎯 Business Problem
 
 The objective of this project is to analyze retail sales data to identify demand patterns, supply chain inefficiencies, and profitability issues, and provide actionable insights for inventory optimization.
+
+---
+
+## 🔍 Key Insights
+
+### 1. High Demand Products
+- Binders and Paper contribute the highest demand  
+- These products require higher inventory levels  
+
+### 2. Supply Chain Efficiency
+- Most deliveries occur within 3–5 days  
+- Standard Class shipping dominates but is slower  
+
+### 3. Profit Leakage 🚨
+- Tables and Bookcases generate losses despite strong demand  
+- Indicates pricing or discount issues  
+
+### 4. Returns Risk
+- High-demand products also show higher return rates  
+- Suggests potential quality or expectation gaps  
+
+### 5. Product Concentration (Pareto Insight)
+- ~80% of sales are driven by ~20% of products
+- Inventory focus should be on high-impact SKUs
 
 ---
 
@@ -18,7 +50,7 @@ The objective of this project is to analyze retail sales data to identify demand
 
 ## 📑 Dataset Description
 
-- The dataset contains retail sales transactions with information on orders, customers, products, delivery, and financial metrics.
+Retail dataset containing order, customer, product, and delivery details with derived metrics such as demand category, profit margin, and shipping efficiency.
 
 ## 📋 Column Details
 
@@ -59,10 +91,7 @@ The objective of this project is to analyze retail sales data to identify demand
 
 ## 📊 Dashboard Preview
 
-- Live Dashboard: (https://public.tableau.com/app/profile/akash.maurya3794/viz/RetailInventoryDemandAnalysisDashboardExcelSQLTableauProject/Dashboard?publish=yes)
-
-
-- ![Dashboard Preview](Dashboard/dashboard_screenshot.png)
+![Dashboard Preview](Dashboard/invent_retail.png)
 
 ---
 
@@ -74,30 +103,6 @@ The objective of this project is to analyze retail sales data to identify demand
 - Profit vs demand analysis  
 - Returns analysis  
 - Pareto analysis (top 20% products driving 80% sales)
-
----
-
-## 🔍 Key Insights
-
-### 1. High Demand Products
-- Binders and Paper contribute the highest demand  
-- These products require higher inventory levels  
-
-### 2. Supply Chain Efficiency
-- Most deliveries occur within 3–5 days  
-- Standard Class shipping dominates but is slower  
-
-### 3. Profit Leakage 🚨
-- Tables and Bookcases generate losses despite strong demand  
-- Indicates pricing or discount issues  
-
-### 4. Returns Risk
-- High-demand products also show higher return rates  
-- Suggests potential quality or expectation gaps  
-
-### 5. Product Concentration (Pareto Insight)
-- ~80% of sales are driven by ~20% of products
-- Inventory focus should be on high-impact SKUs
 
 ---
 
